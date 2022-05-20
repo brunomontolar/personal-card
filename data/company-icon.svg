@@ -1,0 +1,14 @@
+<svg width="211" height="211" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <clipPath id="clip1">
+   <path id="svg_1" d="m0,320l1100.92188,0l0,312.96094l-1100.92188,0l0,-312.96094zm0,0"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <text transform="matrix(0.950806, 0, 0, 0.935153, 0.190424, 1.62687)" fill="#000000" stroke="#ffffff" stroke-width="0" x="10.14971" y="97.46606" id="svg_6" font-size="70" font-family="'Arimo'" text-anchor="start" xml:space="preserve">YOUR</text>
+   <text transform="matrix(0.950806, 0, 0, 0.935153, 0.190424, 1.62687)" fill="#000000" stroke="#ffffff" stroke-width="0" x="9.12471" y="173.46606" id="svg_7" font-size="70" font-family="'Arimo'" text-anchor="start" xml:space="preserve">LOGO</text>
+  </g>
+ </g>
+</svg>

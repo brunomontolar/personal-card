@@ -1,0 +1,11 @@
+<svg width="1050" height="205" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <clipPath id="clip1">
+   <path d="m0,320l1100.92188,0l0,312.96094l-1100.92188,0l0,-312.96094zm0,0" id="svg_1"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(2.43771, 0, 0, 2.41038, -448.667, 0.27982)" xml:space="preserve" text-anchor="start" font-family="'Arimo'" font-size="70" id="svg_2" y="66.85506" x="187.18039" stroke-width="0" stroke="#000" fill="#ffffff">YOUR LOGO</text>
+ </g>
+</svg>
